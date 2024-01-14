@@ -1,0 +1,19 @@
+{
+  "name": "shivgeek",
+  "version": "1.0.0",
+  "description": "backend Development",
+  "main": "index.js",
+  "scripts": {
+    "test": "checkit"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/geekcoderr/BuildingBackend.git"
+  },
+  "author": "Nishant Maheshwari",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/geekcoderr/BuildingBackend/issues"
+  },
+  "homepage": "https://github.com/geekcoderr/BuildingBackend#readme"
+}
