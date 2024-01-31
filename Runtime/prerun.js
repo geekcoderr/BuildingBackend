@@ -48,7 +48,7 @@ const req = http.request(options, function (res) {
 });
 
 req.write(JSON.stringify({
-  reg_no: 'UK14H1322',
+  reg_no: 'WB12JH2265',
   consent: 'Y',
   consent_text: 'I hear by declare my consent agreement for fetching my information via AITAN Labs API'
 }));
